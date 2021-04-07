@@ -1,5 +1,5 @@
 # TCSMS
-Code used in "Temporal correlations in the simplest measurement sequences"
+Code used in "[Temporal correlations in the simplest measurement sequences](https://arxiv.org/abs/2104.02467)"
 
 * `DCPatterns.py`: Sample Python code for the DCPatterns algorithm.
 
