@@ -1,5 +1,5 @@
 # TCSMS
-Code used in "[Temporal correlations in the simplest measurement sequences](https://arxiv.org/abs/2104.02467)"
+Code used in "[Temporal correlations in the simplest measurement sequences](https://quantum-journal.org/papers/q-2022-01-18-623/)"
 
 * `DCPatterns.py`: Sample Python code for the DCPatterns algorithm.
 
@@ -7,11 +7,13 @@ Code used in "[Temporal correlations in the simplest measurement sequences](http
 
 * `optimize.py`: Survey of classical models of general sequences in various dimensions.
 
+* `classicalprob.mx`: The optimal probabilities found for the numerical survey of classical models, with the optimal EMCMs probabilities for the one-tick sequences.
+
+* `qopt.py`: Survey of quantum models, including multiple Kraus operators.
+
 * `analysis_classical.nb`: Analysis and investigations of the classical models.
 
-* `analysis_quantum.nb`: Analysis and investigations of the quantum models.
+* `surveydata.zip`: Contains the folder of cached results of previous numerical surveys of classical models. We compressed it here to keep the repository simpler and smaller.
 
-* `survey_quantum.nb`: Optimization of quantum models.
+* `quantumsurveydata.zip`: Contains the Kraus operators found in the numerical survey
 
-
-* `surveydata.zip`: Contains the folder of cached results of previous numerical surveys. We compressed it here to keep the repository simpler and smaller.
